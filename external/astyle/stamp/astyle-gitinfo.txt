@@ -1,0 +1,3 @@
+repository='https://github.com/Bareflank/astyle.git'
+module=''
+tag='origin'
